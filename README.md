@@ -1,5 +1,7 @@
 [![Build Status](https://github.com/dotnet-architecture/eShopOnWeb/workflows/eShopOnWeb%20Build%20and%20Test/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
 
+[![Board Status](https://dev.azure.com/pdtdemoworld/d878dea7-35d7-494d-b2a3-98e5a20b352a/0936b02c-4b60-42e2-9991-ae34d766b3af/_apis/work/boardbadge/92317583-8f82-4bf3-82f2-24d499bd6244)](https://dev.azure.com/pdtdemoworld/d878dea7-35d7-494d-b2a3-98e5a20b352a/_boards/board/t/0936b02c-4b60-42e2-9991-ae34d766b3af/Stories/)
+
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
 Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a single-process (monolithic) application architecture and deployment model. If you're new to .NET development, read the [Getting Started for Beginners](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners) guide.
